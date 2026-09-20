@@ -25,6 +25,12 @@
 | **Developer experience** | Practical automation, clean interfaces and tools that remove friction |
 | **Product experiments** | Small focused products, prototypes and visual web experiences |
 
+## Current focus
+
+- Building developer tools that make complex workflows easier to understand and operate.
+- Combining Rust performance with practical automation and polished interfaces.
+- Turning experiments into reliable, documented systems that others can actually use.
+
 ## Selected work
 
 <table>
