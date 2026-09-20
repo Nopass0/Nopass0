@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-banner.png" alt="Bogdan Galin — Nopass0" width="100%" />
+<img src="./profile-banner.png" alt="Bogdan Galin — Nopass0" width="100%" />
 
 # Bogdan Galin · `Nopass0`
 
