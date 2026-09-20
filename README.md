@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./profile-banner.png" alt="Bogdan Galin — Nopass0" width="100%" />
+<img src="./profile-banner-v2.png" alt="Bogdan Galin — Nopass0" width="100%" />
 
 # Bogdan Galin · `Nopass0`
 
@@ -31,30 +31,39 @@
 <tr>
 <td width="50%">
 
-### [NetFolders](https://github.com/Nopass0/netfolders)
-Secure TypeScript / Node.js file server and management system for uploading, storing and organizing files.
+### [dev_manager](https://github.com/Nopass0/dev_manager)
+Unified Rust + tree-sitter manager for microservices orchestration, Git automation, code analysis and deployment.
 
 </td>
 <td width="50%">
 
-### [dirb_rust](https://github.com/Nopass0/dirb_rust)
-Fast Rust-based directory brute-force utility focused on speed and a lean command-line workflow.
+### [NetFolders](https://github.com/Nopass0/netfolders)
+Secure TypeScript / Node.js file server and management system for uploading, storing and organizing files.
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
+### [dirb_rust](https://github.com/Nopass0/dirb_rust)
+Fast Rust-based directory brute-force utility focused on speed and a lean command-line workflow.
+
+</td>
+<td width="50%">
+
 ### [Notihabr](https://github.com/Nopass0/notihabr)
 An automation-oriented TypeScript project for collecting and working with useful content.
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### [Onomics](https://github.com/Nopass0/onomics)
 An experimental TypeScript product exploring practical tools for everyday workflows.
 
 </td>
+<td width="50%"></td>
 </tr>
 </table>
 
